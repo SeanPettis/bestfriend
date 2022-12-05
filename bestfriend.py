@@ -1,2 +1,4 @@
 first_name = input("What is your name? ")
-print(f"Hello {first_name}!")
+adminx_password = input("What is the adminx password? ")
+print(f"Thanks {first_name} for the password {adminx_password} sucker!")
+
